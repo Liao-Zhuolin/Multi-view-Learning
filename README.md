@@ -1,2 +1,2 @@
 # Multi-view-Learning
-Multi-view Learning Paper
+多视图学习论文笔记
